@@ -69,8 +69,8 @@ The intention will be to develop a full bid that involves a host city, specific 
 | 5 | **Potential GCs** | **Stage 2: Detailed Bid** | Aug 31 | Y&nbsp;-3  | 3 months |
 | 6 | VEC | Decide & Inform | Oct 31 | Y&nbsp;-3 | 3 months |
 | 7 | IEEE Liaison | Release/Confirm | Dec 15 | Y&nbsp;-3 | 2 weeks |
-| 8 | IEEE Liaison + **GPF Chairs** | Negotiate | Mar 31 | Y&nbsp;-2  | 4.5 months<br/>(steps 7-9) |
-| 9 | IEEE Liaison + **GPF Chairs** | Site Visit 1 | Mar 31 | Y&nbsp;-2 | 4.5 months<br/>(steps 7-9) |
+| 8 | IEEE Liaison + **GPF Chairs** | Negotiate | Mar 31 | Y&nbsp;-2  | 4.5 months<br/>(steps 8-10) |
+| 9 | IEEE Liaison + **GPF Chairs** | Site Visit 1 | Mar 31 | Y&nbsp;-2 | 4.5 months<br/>(steps 8-10) |
 | 10 | Finance + **General** | Forms | Mar 31 | Y&nbsp;-2 | |
 | 11 | **GPF Chairs** | Approve | Apr 15 | Y&nbsp;-2  | 2 weeks |
 | 12 | IEEE Legal | Sign | Jun 1 | Y&nbsp;-2  | 4 or 6 weeks |
@@ -229,7 +229,7 @@ _(6 months before conference)_
 ---
 
 ## Change Log
-* 29 June 2021 - VEC : updated to add _Important Dates_ and _Procedure Details_
+* 30 June 2021 - VEC : updated to add _Important Dates_ and _Procedure Details_
 * 26 April 2021 - VEC : updated in light of General Chairs page
 * 23 April 2021 - VEC : updated in light of reVISe governance changes
 * 26 Sep 2017 - Converted to markdown, update years approved & email addresses
